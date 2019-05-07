@@ -1,0 +1,17 @@
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Tests.deps.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Tests.runtimeconfig.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Tests.runtimeconfig.dev.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Tests.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Tests.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.csprojAssemblyReference.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.csproj.CoreCompileInputs.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.AssemblyInfoInputs.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.AssemblyInfo.cs
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Lib.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\bin\Debug\netcoreapp2.2\VotingApp.Lib.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Tests\obj\Debug\netcoreapp2.2\VotingApp.Tests.csproj.CopyComplete

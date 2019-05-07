@@ -1,0 +1,17 @@
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Api.deps.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Api.runtimeconfig.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Api.runtimeconfig.dev.json
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Api.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Api.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.csprojAssemblyReference.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.csproj.CoreCompileInputs.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.RazorAssemblyInfo.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.RazorAssemblyInfo.cs
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.AssemblyInfoInputs.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.AssemblyInfo.cs
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.RazorTargetAssemblyInfo.cache
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Lib.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Lib.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.csproj.CopyComplete
