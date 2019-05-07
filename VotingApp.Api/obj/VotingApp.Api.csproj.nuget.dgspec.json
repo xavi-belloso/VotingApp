@@ -9,12 +9,7 @@
       "restore": {
         "projectUniqueName": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj",
         "projectName": "LegacyLib",
-        "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj",
-        "frameworks": {
-          "net451": {
-            "projectReferences": {}
-          }
-        }
+        "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj"
       },
       "frameworks": {
         "net451": {}
