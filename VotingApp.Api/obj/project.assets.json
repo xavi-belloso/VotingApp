@@ -4452,6 +4452,15 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "LegacyLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LegacyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LegacyLib.dll": {}
+        }
+      },
       "VotingApp.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -8947,6 +8956,15 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "LegacyLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LegacyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LegacyLib.dll": {}
+        }
+      },
       "VotingApp.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -11212,6 +11230,15 @@
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "LegacyLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LegacyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LegacyLib.dll": {}
+        }
+      },
       "VotingApp.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -13347,6 +13374,15 @@
         },
         "runtime": {
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
+        }
+      },
+      "LegacyLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LegacyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LegacyLib.dll": {}
         }
       },
       "VotingApp.Lib/1.0.0": {
@@ -21334,6 +21370,11 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "LegacyLib/1.0.0": {
+      "type": "project",
+      "path": "../LegacyLib/LegacyLib.csproj",
+      "msbuildProject": "../LegacyLib/LegacyLib.csproj"
+    },
     "VotingApp.Lib/1.0.0": {
       "type": "project",
       "path": "../VotingApp.Lib/VotingApp.Lib.csproj",
@@ -21343,12 +21384,14 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "EasyWebSockets >= 1.0.0",
+      "LegacyLib >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "VotingApp.Lib >= 1.0.0"
     ],
     ".NETFramework,Version=v4.6.1": [
       "EasyWebSockets >= 1.0.0",
+      "LegacyLib >= 1.0.0",
       "Microsoft.AspNetCore >= 2.2.0",
       "Microsoft.AspNetCore.HttpsPolicy >= 2.2.0",
       "Microsoft.AspNetCore.Mvc >= 2.2.0",
@@ -21388,6 +21431,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj": {
+              "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj"
+            },
             "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
               "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
             }
@@ -21395,6 +21441,9 @@
         },
         "net461": {
           "projectReferences": {
+            "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj": {
+              "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj"
+            },
             "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
               "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
             }

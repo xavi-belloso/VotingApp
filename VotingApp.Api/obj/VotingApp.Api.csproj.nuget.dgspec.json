@@ -4,6 +4,22 @@
     "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Api\\VotingApp.Api.csproj": {}
   },
   "projects": {
+    "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj",
+        "projectName": "LegacyLib",
+        "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj",
+        "frameworks": {
+          "net451": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net451": {}
+      }
+    },
     "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Api\\VotingApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,6 +48,9 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
+              "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj": {
+                "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj"
+              },
               "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
                 "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
               }
@@ -39,6 +58,9 @@
           },
           "net461": {
             "projectReferences": {
+              "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj": {
+                "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\LegacyLib\\LegacyLib.csproj"
+              },
               "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
                 "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
               }

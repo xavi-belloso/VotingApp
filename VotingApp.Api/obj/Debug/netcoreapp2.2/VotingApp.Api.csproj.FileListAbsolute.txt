@@ -15,3 +15,5 @@ D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\Vo
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Lib.dll
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\VotingApp.Lib.pdb
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\obj\Debug\netcoreapp2.2\VotingApp.Api.csproj.CopyComplete
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\LegacyLib.dll
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Api\bin\Debug\netcoreapp2.2\LegacyLib.pdb

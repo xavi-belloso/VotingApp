@@ -17,6 +17,7 @@
   
   <ItemGroup>
     <PackageReference Include="EasyWebSockets" Version="1.0.0" />
+    <ProjectReference Include="..\LegacyLib\LegacyLib.csproj" />
     <ProjectReference Include="..\VotingApp.Lib\VotingApp.Lib.csproj" />
   </ItemGroup>
 

@@ -25,6 +25,7 @@
       "VotingApp.Api/1.0.0": {
         "dependencies": {
           "EasyWebSockets": "1.0.0",
+          "LegacyLib": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "VotingApp.Lib": "1.0.0"
@@ -60,6 +61,14 @@
         },
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "LegacyLib/1.0.0": {
+        "runtime": {
+          "LegacyLib.dll": {}
+        },
+        "compile": {
+          "LegacyLib.dll": {}
         }
       },
       "VotingApp.Lib/1.0.0": {
@@ -3279,6 +3288,11 @@
       "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
       "path": "newtonsoft.json/12.0.1",
       "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "LegacyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "VotingApp.Lib/1.0.0": {
       "type": "project",

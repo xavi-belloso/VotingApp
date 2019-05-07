@@ -43,11 +43,14 @@ namespace VotingApp.Api.Controllers
 
         // DELETE api/values/5
         [HttpDelete]
-        public async Task<object> Delete() =>
-            await ExecuteCommand(() => _voting.Finish());
-
+        public async Task<object> Delete() { 
+            var result = await ExecuteCommand(() => _voting.Finish());
+            Common.Logger.SaveLog("mylegacy.xml");
+            return result;
+        }
         private async Task<object> ExecuteCommand(Action command)
         {
+            Common.Logger.Log("Mi log");
             _logger.LogInformation($"Start command {JsonConvert.SerializeObject(_voting.GetState())}");
             command();
             _logger.LogInformation($"End Command {JsonConvert.SerializeObject(_voting.GetState())}");
