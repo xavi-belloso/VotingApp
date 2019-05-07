@@ -1,4 +1,3 @@
-D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.csprojAssemblyReference.cache
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.csproj.CoreCompileInputs.cache
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.AssemblyInfoInputs.cache
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.AssemblyInfo.cs
@@ -7,3 +6,4 @@ D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\bin\Debug\netstandard2.0\V
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\bin\Debug\netstandard2.0\VotingApp.Lib.pdb
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.dll
 D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.pdb
+D:\Users\xbelloso\Repos\voxel\votingapp\VotingApp.Lib\obj\Debug\netstandard2.0\VotingApp.Lib.csprojAssemblyReference.cache

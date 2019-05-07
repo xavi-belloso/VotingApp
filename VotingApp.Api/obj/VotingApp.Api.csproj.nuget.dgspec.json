@@ -13,6 +13,7 @@
         "packagesPath": "D:\\Users\\xbelloso\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
@@ -21,6 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
+          "net461",
           "netcoreapp2.2"
         ],
         "sources": {
@@ -29,6 +31,13 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
+                "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
+              }
+            }
+          },
+          "net461": {
             "projectReferences": {
               "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj": {
                 "projectPath": "D:\\Users\\xbelloso\\Repos\\voxel\\votingapp\\VotingApp.Lib\\VotingApp.Lib.csproj"
@@ -67,6 +76,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true
+        },
+        "net461": {
+          "dependencies": {
+            "EasyWebSockets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     },
