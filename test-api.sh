@@ -1,4 +1,9 @@
 curl http://localhost:5000/api/voting \
+--request 'GET' 
+
+echo '\n'
+
+curl http://localhost:5000/api/voting \
 --request 'POST' \
 --data '["c#","java"]' \
 --header 'Content-Type: application/json'
