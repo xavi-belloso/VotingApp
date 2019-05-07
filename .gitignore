@@ -1,19 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
- @xavi-belloso 
-@kmorcinek kmorcinek/.gitignore
-Last active Apr 27, 2019 • 
-133
-44
- Code  Revisions 28  Stars 133  Forks 44
- 
-<script src="https://gist.github.com/kmorcinek/2710267.js"></script>
-  
-Example .gitignore file I use for C# projects
- .gitignore
 # The following command works for downloading when using Git for Windows:
 # curl -LOf http://gist.githubusercontent.com/kmorcinek/2710267/raw/.gitignore
 #
